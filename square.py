@@ -8,4 +8,4 @@ while n<=end_point:
     print("square of ", n , "is" , n*n)
     n=n+1
     print("sum is",sum)
-    print("avg is",avg)
+    print("avg is",avg) 
