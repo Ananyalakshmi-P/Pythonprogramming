@@ -1,5 +1,5 @@
 counter=0
-secret_word= "Ananyalp"
+secret_word= " Ananyalp"
 while counter<7:
     word=input("Enter the secreat word")
 
